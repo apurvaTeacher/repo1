@@ -9,3 +9,8 @@ Switches
 additional devices
 firewall
 viop phones
+
+status
+
+3 working
+1 down
