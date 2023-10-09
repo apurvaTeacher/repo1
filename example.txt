@@ -4,3 +4,8 @@ lets add some devices
 
 Routers
 Switches
+
+
+additional devices
+firewall
+viop phones
